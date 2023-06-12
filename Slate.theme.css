@@ -31,7 +31,6 @@
 
 /*
   Place any Theme-specific Custom CSS Below here
-*/
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   --background-image: url(https://i.pinimg.com/originals/4f/00/04/4f00043b34a955e56ccf798cfea0f0ae.gif); /* app background image (link must be HTTPS) [default: url(https://i.pinimg.com/originals/b2/d5/95/b2d595cf10aff078f43268914ba78f4a.gif)]*/
@@ -46,3 +45,4 @@
   --background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
   --background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
   --background-blur: 0px; /* app background blur [default: 0px] */
+*/
